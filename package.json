@@ -6,11 +6,11 @@
     "url": "https://github.com/rewathkafley/angular-chosen/issues"
   },
   "peerDependencies": {
-    "angular": "^1.7",
+    "angular": "^1.6",
     "chosen-js": "^1.8"
   },
   "dependencies": {
-    "angular": "^1.7",
+    "angular": "^1.6",
     "chosen-js": "^1.8"
   },
   "description": "Chosen js angular wrapper",
